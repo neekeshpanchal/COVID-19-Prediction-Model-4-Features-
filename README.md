@@ -22,3 +22,5 @@ This software implements a graphical user interface (GUI) application for traini
 - Train the neural network.
 - Predict future COVID-19 cases by inputting current statistics.
 - View predictions as text and in a dynamic bar graph.
+
+dataset was pulled from this source:(https://www.kaggle.com/datasets/joebeachcapital/coronavirus-covid-19-cases-daily-updates/data)
