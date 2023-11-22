@@ -1,4 +1,6 @@
-![image](https://github.com/neekeshpanchal/COVID-19-Prediction-Model-4-Features-/assets/80868396/a0cb4fcc-b9a9-44f2-8561-7d94ec792005)
+**Prototype Graphic Interface**
+![image](https://github.com/neekeshpanchal/COVID-19-Prediction-Model-4-Features-/assets/80868396/f4f3ccbd-8da9-4843-86dc-25c6a9d91455)
+
 
 
 This software implements a graphical user interface (GUI) application for training a neural network and using it to predict future COVID-19 cases. The GUI is built using the Tkinter library and includes functionalities for loading datasets, training a neural network, saving/loading trained models, and predicting future COVID-19 cases. The neural network is implemented using the scikit-learn library.
